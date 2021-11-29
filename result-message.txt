@@ -1,0 +1,1 @@
+03XadesT.xml: Chyba v obsahu ds:DigestMethod, atribút Algorithm neobsahuje URI niektorého z podporovaných algoritmov
